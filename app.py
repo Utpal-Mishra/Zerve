@@ -2,7 +2,9 @@ import home
 import one 
 import two
 import three
-import status
+import four
+import five
+#import status
 
 import streamlit as st
 
@@ -13,6 +15,8 @@ PAGES = {
     "Crude Steel": one,
     "Past Steel Data": two,
     "India Steel Export": three,
+    "Steel Tariff Data": four,
+    "Steel Related Products": five,
     #"Find Weather Status": status
 }
 

@@ -29,5 +29,13 @@ def app():
     st.write("")
     
     st.write("Page 3: India Steel Export")
+    
+    st.write("")
+    
+    st.write("Page 4: Steel Tariff Data")
+    
+    st.write("")
+    
+    st.write("Page 5: Steel Related Products")
 
     
